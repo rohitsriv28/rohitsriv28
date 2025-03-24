@@ -57,12 +57,6 @@
     height="220"
     alt="Streak Graph"
   />
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rohitsriv28&show_icons=true&count_private=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&card_width=500"
-    height="220"
-    alt="GitHub Stats"
-  />
 </div>
 
 ---
