@@ -51,7 +51,7 @@
 ---
 
 # 📊 GitHub Stats:
-<div>
+<div align="center">
   <img
     src="https://streak-stats.demolab.com?user=rohitsriv28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
     height="220"
@@ -59,8 +59,8 @@
   />
   <br/>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rohitsriv28&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_radius=5"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=rohitsriv28&show_icons=true&count_private=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&card_width=500"
+    height="220"
     alt="GitHub Stats"
   />
 </div>
