@@ -2,7 +2,7 @@
 
 🚀 **Frontend-Focused Full Stack Developer** | React • MERN • UI Systems  
 🎯 Building real-world applications with scalable architecture & clean UI  
-🌐 **Portfolio:** https://rohit-raj-srivastava.vercel.app
+🌐 **Portfolio:** [rohit-raj-srivastava.vercel.app](https://rohit-raj-srivastava.vercel.app)
 ---
 
 ## 🧠 About Me  
@@ -17,10 +17,6 @@
 ---
 
 ## 🌐 Live Projects  
-
-### 🔹 SwiftCare  
-👉 https://github.com/rohitsriv28/SwiftCare  
-*MERN Stack • Role-based system • Appointment booking • Payments • Admin analytics*  
 
 ### 🔹 CashFlow (Expense Tracker PWA)  
 👉 https://cashflow-c.web.app  
