@@ -19,8 +19,8 @@
 ## 🌐 Live Projects  
 
 ### 🔹 CashFlow (Expense Tracker PWA)  
-👉 https://cashflow-c.web.app  
-*React + Firebase • Offline support • Analytics dashboard • Data retention logic*  
+👉 https://cashflow-c.vercel.app  
+*React + Express + MongoDB • Offline support • Analytics dashboard • Data retention logic*  
 
 ### 🔹 Text Analyzer  
 👉 https://text-analyzer-theta.vercel.app  
